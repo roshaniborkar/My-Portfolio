@@ -42,3 +42,7 @@ const userId = 'YOUR_USER_ID';
 ```
 
 You can obtain these IDs by signing up for an account on EmailJS.
+
+
+## OUTPUT
+![image](https://github.com/roshaniborkar/My-Portfolio/assets/58977139/712c5f7c-2b5e-4df9-8043-f6be9381c653)
