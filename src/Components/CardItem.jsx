@@ -34,7 +34,7 @@ const projects = [
     description:
       "Explore my portfolio website crafted using React, Vite, and Tailwind CSS, where I proudly present a collection of my work. This platform not only showcases my projects but also highlights my diverse skill set, providing a comprehensive view of my capabilities.",
     readMoreLink: "https://github.com/manik-18/Personal-Portfolio",
-    demoLink: "https://manikgupta.netlify.app/",
+    demoLink: "",
   },
  
 ];
